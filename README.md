@@ -12,6 +12,12 @@ Menggunakan keylogger tanpa izin adalah **ilegal** dan melanggar privasi.
 
 ---
 
+## 📽️ Demo
+
+![Demo-video](./assets/demo.gif)
+
+---
+
 ## 📦 Persiapan Lingkungan Virtual & Instalasi Library
 
 1. **Pindah ke direktori proyek**  
