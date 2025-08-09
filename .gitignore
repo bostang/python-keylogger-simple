@@ -1,0 +1,24 @@
+# FILE-FILE PERCOBAAN YANG TIDAK TERPAKAI
+**/.dump/**
+
+# PYTHON VIRTUAL ENVIRONMENT & LIBRARY
+**/venv/**
+
+# BUILD FILES
+**/build/**
+
+# OUTPUT FILES
+**/output/raw/**
+**/output/cleaned/**
+
+# SETTING VSCODE
+.vscode/
+
+# LOG FILE
+log/**
+
+# SPEK APLIKASI
+*.spec
+
+# ENVIRONMENT VARIABLES
+.env
